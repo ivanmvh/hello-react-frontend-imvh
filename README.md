@@ -20,8 +20,8 @@
   - [🙏 Acknowledgements](#acknowledgements)
   - [📝 License ](#-license-)
 
-# Hello-React-Front-End <a name="hello-rails-react"></a>
-**Hello React Frontend** is a frontend web application that displays a random greeting message on screen, using [Hello Rails Backend](https://github.com/AbeeraTahir/hello-rails-back-end.git) API.
+# Hello-React-FrontEnd-imvh <a name="hello-rails-react"></a>
+**Hello React Frontend IMVH** is a frontend web application that displays a random greeting message on screen, using [Hello-Rails-Backend-IMVH](https://github.com/ivanmvh/hello-rails-backend-imvh.git) API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,14 +57,14 @@
 
 In order to run this project you need:
 
-- [API](https://github.com/AbeeraTahir/hello-rails-back-end.git)
+- [API](https://github.com/ivanmvh/hello-rails-backend-imvh.git)
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/AbeeraTahir/hello-react-front-end.git
+  git clone https://github.com/ivanmvh/hello-react-frontend-imvh.git
 ```
 
 ### Install
@@ -97,11 +97,10 @@ npm test
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Abeera Tahir**
+👤 **Ivan Martinez von Halle**
 
-- GitHub: [@AbeeraTahir](https://github.com/AbeeraTahir)
-- Twitter: [@AbeeraTahir8](https://twitter.com/AbeeraTahir8?t=z5CjMpmHMZmS98i09gUpYA&s=08)
-- LinkedIn: [Abeera Tahir](https://www.linkedin.com/in/abeera-tahir/)
+- GitHub: [@ivanmvh](https://github.com/ivanmvh)
+- LinkedIn: [Ivan Martinez von Halle](https://www.linkedin.com/in/ivan-martinez-von-halle/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
